@@ -37,5 +37,5 @@ getUsernameById2('85');
 type SquareSize = '100x100' | '500x500' | '1000x1000'
 //let smallPictures: SquareSize = '200x200' //Error
 let smallPictures: SquareSize = '100x100'
-let mediemPictures: SquareSize = '500x500'
+let mediumPictures: SquareSize = '500x500'
 let largePicture: SquareSize = '1000x1000'
