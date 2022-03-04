@@ -38,4 +38,5 @@ newPicture.title = 'Sun';
 
 console.log('>>Album:', album);
 console.log('>>Picture:', picture);
+console.table({album});
 console.log('>>NewPicture:', newPicture);
